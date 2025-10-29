@@ -1,0 +1,9 @@
+git : 형상관리 프로그램
+
+git add FILENAME : working directory -> git staging area에 추가
+
+git commit -m MESSAGE : staging area 내용을 local repo에 저장
+
+git push origin main : remote repo의 main 브랜치에 local repo의 내용 업로드
+
+git clone https... : remote repo의 내용 다운로드
